@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-🐘 PHP | Laravel | Laravel Nova | Livewire | VueJS | 🅰️ AngularJS | Tailwind | Typescript | 💾 SQL | NoSQL | GraphQL
+🐘 PHP | Laravel | Laravel Nova | Livewire | VueJS | 🅰️ AngularJS | Tailwind | Typescript | MySQL | NoSQL | GraphQL
 </p>
 
 <p align="center">
